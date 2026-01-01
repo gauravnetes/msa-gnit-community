@@ -21,16 +21,14 @@
     "year": "1st Year",
     "description": "1st year student ,trying to find my interest,exploring every fields"
   }, 
-
-  ,{
+{
     "name": "Ayush Singh",
     "github": "https://github.com/ayushsin9h",
     "linkedin": "https://www.linkedin.com/in/ayushsin9h/",
     "year": "3rd Year",
     "description": "Lead at MSA, interested in Web Development and Machine Learning."
-  }
+  },
 
-]
 {
     "name": "Imon Dey",
     "github": "https://github.com/Imondey",
