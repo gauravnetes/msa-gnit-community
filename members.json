@@ -106,5 +106,19 @@
     "linkedin": "www.linkedin.com/in/sneha-majumder-tech001",
     "year": "2nd Year",
     "description": "starting my open source journey"
+  },
+  {
+    "name": "Ritika Roy",
+    "github": "https://github.com/ritikaroy2007-tech",
+    "linkedin": "https://www.linkedin.com/in/ritika-roy-69a863381/",
+    "year": "1st Year",
+    "description": "trying open source for first time"
+  },
+  {
+    "name": "Niladri Ranjan Maiti",
+    "github": "https://github.com/niladri471",
+    "linkedin": "https://www.linkedin.com/in/niladri-ranjan-maiti-13b583321",
+    "year": "2nd Year", 
+    "description": "Aspiring CS Student focused on learning deeply about new technologies,Starting my open source journey, and experimentation."
   }
 ]
